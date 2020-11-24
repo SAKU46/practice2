@@ -98,7 +98,7 @@ var swiper = new Swiper('.swiper-container', {
   spaceBetween: 56,
   allowTouchMove: true,
   autoplay: {
-    delay: 1000,
+    delay: 5000,
     disableOnInteraction: true
   },
   breakpoints: {
